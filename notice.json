@@ -1,3 +1,4 @@
 {
-  "message": null
+  "message": "Node measurements, system status, and the Data API may be intermittently unavailable throughout the week of August 25th - August 29th as we perform necessary maintenance.",
+  "severity": "warning"
 }
